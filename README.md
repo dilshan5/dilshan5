@@ -23,26 +23,25 @@ Tools <a href= "https://github.com/dilshan5/"><img src="https://img.icons8.com/m
 <p align="center">
 <img title="Java" height="50" src = 'https://www.vectorlogo.zone/logos/java/java-vertical.svg' width='40'/>
 <img title="Kotlin" height="50" src = 'https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg' width='70'/>
-<img height="50" src = 'https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg' width='30'/>
-<img height="50" src = 'https://www.vectorlogo.zone/logos/golang/golang-icon.svg' width='40'/>
+<img title="Ruby" height="50" src = 'https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg' width='30'/>
+<img title="Golang"  height="50" src = 'https://www.vectorlogo.zone/logos/golang/golang-icon.svg' width='40'/>
 <img title="JavaScript" src = 'https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg' width='90'/>
-<img height="50" src = 'https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg' width='40'/>
-<img height="50" src = 'https://codecept.io/logo.svg' width='40'/>
+<img title="Cypress" height="50" src = 'https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg' width='40'/>
+<img title="CodeceptJS" height="50" src = 'https://codecept.io/logo.svg' width='40'/>
 <img title="Junit5" src = 'https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/junit5.svg' width='40'/>
 <img title="TestNG" src = 'https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png' width='40'/>
 <img title="Rest Assured" src = 'https://rest-assured.io/img/logo-transparent.png' width='40'/>
-<img height="50" src = 'https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg' width='40'/>
-<img height="40" src = 'https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg' width='40'/>
-<img height="40" src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" width='40'/>
-<img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/appium.svg" width='40'/>
-<img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width='40'/>
-<img height="40" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/k6.svg" width='40'/>
-<img src="https://upload.wikimedia.org/wikipedia/en/e/e6/Apache_JMeter_Logo.svg" width='90'/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Influxdb_logo.svg/640px-Influxdb_logo.svg.png" width='140'/>
-<img  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width='80'/>
-<img  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width='80'/>
-<img  src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg" width='80'/>
-<img  src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rspec.svg" width='30'/>
+<img title="Selenium" height="50" src = 'https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg' width='40'/>
+<img title="Grafana" height="40" src = 'https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg' width='40'/>
+<img title="Appium" height="40" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/appium.svg" width='40'/>
+<img title="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width='40'/>
+<img title="K6" height="40" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/k6.svg" width='40'/>
+<img title="JMeter" src="https://upload.wikimedia.org/wikipedia/en/e/e6/Apache_JMeter_Logo.svg" width='90'/>
+<img title="InfluxDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Influxdb_logo.svg/640px-Influxdb_logo.svg.png" width='140'/>
+<img title="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width='80'/>
+<img title="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width='80'/>
+<img title="Cucumber"  src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg" width='80'/>
+<img title="RSpec" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rspec.svg" width='30'/>
 <img title="Maven" height="50" src = 'https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg' width='40'/>
 <img title="Gradle" src = 'https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg' width='70'/>
 <img title="Jenkins" src = 'https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg' width='40'/>
@@ -51,7 +50,6 @@ Tools <a href= "https://github.com/dilshan5/"><img src="https://img.icons8.com/m
 <img title="ServiceNow" src = 'https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg' width='100'/>
 <img title="Confluence" src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg' width='50'/>
 <img title="Google Drive" src = 'https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg' width='40'/>
-<img title="ServiceNow" src = 'https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg' width='100'/>
 <img title="Docker" src = 'https://www.vectorlogo.zone/logos/docker/docker-icon.svg' width='50'/>
 <img title="Git" src = 'https://www.vectorlogo.zone/logos/github/github-ar21.svg' width='100'/>
 <img title="IntelliJ" src = 'https://raw.githubusercontent.com/gilbarbara/logos/master/logos/intellij-idea.svg' width='40'/>
